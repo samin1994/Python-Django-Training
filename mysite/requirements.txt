@@ -1,0 +1,7 @@
+
+Django>=1.8,<1.9
+django-pylibmc
+django-toolbelt
+psycopg2
+pylibmc
+whitenoise
